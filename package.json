@@ -1,6 +1,6 @@
 {
   "name": "@lancercomet/vite-plugin-vue2-hmr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Vite plugin enables Vue 2 Composition API component hot reloading.",
   "main": "./dist/index.js",
   "module": "./dist/index.esm.js",
